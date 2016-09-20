@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class Interface
+    public class Interface
     {
         private Calculator calculator;
 
